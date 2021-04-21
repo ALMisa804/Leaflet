@@ -1,1 +1,1 @@
-Leaflet Geo-mapping
+Leaflet geo-mapping
